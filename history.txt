@@ -1,0 +1,144 @@
+    1   ~/Library/Application Support/Google/Chrome/Default
+    2   ~/Library/Application Support/Google/Chrome/Default
+    3  is
+    4  cd wget/
+    5  ls
+    6  wget
+    7  cd wget/
+    8  cd wgetla
+    9  ls
+   10  cd wget\
+   11  cd wget/
+   12  man wget
+   13  ls
+   14  mkdir Oilers
+   15  ls
+   16  cd Oilers/
+   17  ls
+   18  http://www.edmontonjournal.com/sports/hockey/edmonton-oilers/
+   19  wget -r -np -nd -A story.html* http://www.edmontonjournal.com/sports/hockey/edmonton-oilers/
+   20  exit
+   21  R
+   22  R
+   23  R
+   24  r
+   25  r
+   26  r
+   27  R
+   28  R
+   29  r
+   30  R
+   31  R
+   32  r
+   33  R
+   34  R
+   35  R
+   36  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   37  $ python swc-installation-test-1.py
+   38  python swc-installation-test-1.py
+   39  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   40  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   41  bash
+   42  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   43  Anaconda-2.3.0-MacOSX-x86_64.sh
+   44  ~Aziz
+   45  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   46  python swc-installation-test-1.py
+   47   python swc-installation-test-2.py
+   48  rm -rf ~/anaconda
+   49  /usr/local/git/uninstall.sh
+   50  whoami
+   51  whereami
+   52  pwd
+   53  ls
+   54  ls -a
+   55  ls -l
+   56  ls -al
+   57  clear
+   58  man ls
+   59  man ls
+   60  ls /
+   61  ls /
+   62  ls /Users/
+   63  pwd
+   64  ls 
+   65  ls al
+   66  clear
+   67  ls .
+   68  ls ..
+   69  ls
+   70  clear
+   71  ls ../
+   72  ls ../Guest/t
+   73  ls ..
+   74  ls ..
+   75  ls .
+   76  ls .. /Guest
+   77  ls .. / Aziz
+   78  ls
+   79  pwd
+   80  cd /
+   81  pwd
+   82  ls
+   83  cd Users/Aziz/
+   84  ls
+   85  cd /
+   86  ~
+   87  cd ~
+   88  ls
+   89  pwd
+   90  cd Dpwd
+   91  pwd
+   92  cd Desktop/
+   93  pwd
+   94  ls
+   95  ls
+   96  mkdir SoftwareCarpentry
+   97  ls
+   98  cd SoftwareCarpentry/
+   99  pwd
+  100  mkdir Terminal Testing
+  101  ls
+  102  mkdir TerminalTesting
+  103  cd TerminalTesting/
+  104  nano Important_Ideas
+  105  la
+  106  ls
+  107  nano Important_Ideas
+  108  cat Important_Ideas 
+  109  man cat
+  110  cat -n Important_Ideas 
+  111  ls
+  112  cp Important_Ideas ../
+  113  ls
+  114  ls ..cp Important_Ideas ../
+  115  pwd
+  116  rm ./
+  117  cd ..
+  118  ped
+  119  pwd
+  120  rm TerminalTesting/
+  121  rm -r TerminalTesting/
+  122  ls
+  123  rm -r T*
+  124  ls
+  125  cp Important_Ideas Important_Ideas.txt
+  126  ls
+  127  rm Important_Ideas.txt
+  128  ls
+  129  mv Important_Ideas.txt
+  130  ls
+  131  mv Important_Ideas Important_Ideas.txt
+  132  curl -L -O http://bit.ly/1ylW533
+  133  ls
+  134  cat 1ylW533 
+  135  head 1ylW533 
+  136  mv 1ylW533 MobyDick.txt
+  137  ls
+  138  grep whale MobyDick.txt
+  139  man grep
+  140  wc MobyDick.txt 
+  141  w c MobyDick.txt > MobyDickcount.txt 
+  142  ls
+  143  history 
+  144  history > history.txt
